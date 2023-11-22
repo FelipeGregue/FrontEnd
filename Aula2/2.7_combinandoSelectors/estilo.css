@@ -1,0 +1,36 @@
+h2, h5{
+    color: rgb(177, 165, 8)
+}
+
+.Roupas{
+    color: blue;
+}
+
+li{
+    color: orange
+}
+
+.usada{
+    color: purple
+}
+
+.alimentos{
+    color: rgb(109, 208, 238)
+}
+
+.caixa{
+    color: orange
+}
+
+
+.moveis{
+    color: blue;
+}
+
+
+
+.moveis .usada{
+    color: rgb(60, 219, 60);
+}
+
+
